@@ -26,57 +26,45 @@ This repository contains selected projects demonstrating my skills in **data cle
 
 ## 📊 Featured Projects
 
-### 1. Stock Market Analysis
+## 📊 Data Analytics Projects
 
-Analysis of historical stock market data involving data cleaning, exploratory analysis, statistical analysis, regression modelling, and stock clustering.
+My portfolio is organized by training level and practical project experience, documenting my progression in data analytics.
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-learn
+### 🟢 Level 1 — Foundation
 
----
+Level 1 focuses on building the core skills required for professional data analysis, from preparing raw datasets to exploring patterns and communicating insights through visualizations.
 
-### 2. Customer Churn Analysis
+#### Task 1 — Data Cleaning and Preprocessing
 
-Analysis and prediction of customer churn using machine learning techniques, including data preprocessing, model training, evaluation, and interpretation.
+Focused on preparing raw data for analysis through data inspection, handling missing values, checking duplicates, correcting data types, and preparing the dataset for subsequent analytical tasks.
 
-**Tools:** Python, Pandas, Scikit-learn
-
----
-
-### 3. NLP Sentiment Analysis
-
-Natural Language Processing project focused on preprocessing text data and classifying sentiment as positive, negative, or neutral.
-
-**Tools:** Python, NLTK, TextBlob, Pandas, Matplotlib
+**Key skills:** Data Cleaning, Data Preprocessing, Pandas, NumPy, Data Quality Checks
 
 ---
 
-### 4. Power BI Stock Market Dashboard
+#### Task 2 — Exploratory Data Analysis (EDA)
 
-Interactive business intelligence dashboard designed to analyze stock performance, trading volume, trends, and individual stock performance.
+Focused on understanding the structure and characteristics of the cleaned dataset through descriptive statistics, distributions, relationships, trends, and exploratory analysis.
 
-**Tools:** Power BI, DAX, Power Query
-
----
-
-## 📈 What I Do
-
-* Data Cleaning & Preparation
-* Exploratory Data Analysis
-* Data Visualization
-* Statistical Analysis
-* Machine Learning
-* Natural Language Processing
-* Business Intelligence
-* Dashboard Development
-* Data Storytelling
+**Key skills:** Exploratory Data Analysis, Statistical Analysis, Pandas, NumPy, Data Interpretation
 
 ---
 
-## 🎯 Career Goal
+#### Task 3 — Basic Data Visualization
 
-I am currently focused on building my career in **Data Analytics and Business Intelligence**, with an interest in solving real-world problems through data-driven insights.
+Focused on communicating analytical findings through appropriate charts and visualizations, making patterns and insights easier to understand.
+
+**Key skills:** Data Visualization, Matplotlib, Seaborn, Chart Selection, Data Storytelling
 
 ---
+
+### 🔵 Level 2
+
+Intermediate data analytics projects will be added as they are completed.
+
+### 🟣 Level 3
+
+Advanced analytics, business intelligence, machine learning, NLP, and dashboard projects will be added as they are completed.
 
 ## 📫 Connect With Me
 
